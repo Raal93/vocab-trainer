@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(80, 80, 80);
+  color:rgb(57, 199, 199);
+  font-size: 36px;
+}
+
+.App {
+  padding: 30px;
+}
+
+.App input {
+  margin-left: 40px;
+  padding: 5px;
+  font-size: 36px;
+  border: none;
+  border-radius: 10px;
+  background-color: rgb(122, 165, 122);
+}
+
+.App input::placeholder {
+  color: lightgray;
+  font-size: 36px;
+}
